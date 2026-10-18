@@ -1,0 +1,499 @@
+{
+  "entries": [
+    {
+      "key": "loading",
+      "fr": "Chargement de Jinhai...",
+      "en": "Loading Jinhai..."
+    },
+    {
+      "key": "lang.name",
+      "fr": "Français",
+      "en": "English"
+    },
+    {
+      "key": "title.mission",
+      "fr": "MISSION 1",
+      "en": "MISSION 1"
+    },
+    {
+      "key": "title.name",
+      "fr": "LA POURSUITE",
+      "en": "THE CHASE"
+    },
+    {
+      "key": "title.place",
+      "fr": "Jinhai — quartier de Longmen — 02 h 47",
+      "en": "Jinhai — Longmen district — 2:47 AM"
+    },
+    {
+      "key": "spk.lin",
+      "fr": "Opératrice Lin — Central",
+      "en": "Operator Lin — Dispatch"
+    },
+    {
+      "key": "spk.you",
+      "fr": "Vous",
+      "en": "You"
+    },
+    {
+      "key": "spk.zhao",
+      "fr": "Capitaine Zhao",
+      "en": "Captain Zhao"
+    },
+    {
+      "key": "spk.shen",
+      "fr": "Dr Shen Yao — médecine légale",
+      "en": "Dr. Shen Yao — Forensics"
+    },
+    {
+      "key": "spk.t07",
+      "fr": "Le suspect",
+      "en": "The suspect"
+    },
+    {
+      "key": "line.patrol1",
+      "fr": "Unité 7, ici Central. Agression signalée dans les ruelles de Longmen, près du marché de nuit. Le témoin est en état de choc.",
+      "en": "Unit 7, Dispatch. Assault reported in the Longmen alleys, near the night market. The witness is in shock."
+    },
+    {
+      "key": "line.patrol2",
+      "fr": "Reçu, Central. J'y vais.",
+      "en": "Copy, Dispatch. On my way."
+    },
+    {
+      "key": "line.patrol3",
+      "fr": "Soyez prudent. Le témoin parle de... de choses qui lui sortaient du dos. Je n'en sais pas plus.",
+      "en": "Be careful. The witness talks about... things coming out of his back. That's all I have."
+    },
+    {
+      "key": "line.confront",
+      "fr": "Police ! Lâchez-la ! Les mains bien en vue !",
+      "en": "Police! Let her go! Hands where I can see them!"
+    },
+    {
+      "key": "line.chase1",
+      "fr": "Unité 7, vous êtes en poursuite ? Renforts en route, délai : six minutes.",
+      "en": "Unit 7, are you in pursuit? Backup is en route, six minutes out."
+    },
+    {
+      "key": "line.chase2",
+      "fr": "Il est trop rapide... Personne ne court comme ça.",
+      "en": "He's too fast... Nobody runs like that."
+    },
+    {
+      "key": "line.market",
+      "fr": "Il traverse le marché de nuit. Il y a des civils partout, ne tirez pas à l'aveugle.",
+      "en": "He's cutting through the night market. Civilians everywhere — don't fire blind."
+    },
+    {
+      "key": "line.tentacles",
+      "fr": "Il les touche avec... ces choses. Qu'est-ce qu'il leur fait ?",
+      "en": "He's touching them with... those things. What is he doing to them?"
+    },
+    {
+      "key": "line.docks",
+      "fr": "Il file vers les docks de Jinhai. Zone d'entrepôts. C'est une impasse.",
+      "en": "He's making for the Jinhai docks. Warehouse yard. It's a dead end."
+    },
+    {
+      "key": "line.fight1",
+      "fr": "Fin de la course.",
+      "en": "End of the line."
+    },
+    {
+      "key": "line.fight2",
+      "fr": "Tu ne comprends pas... Ce sont eux qui m'ont fait comme ça.",
+      "en": "You don't understand... They made me like this."
+    },
+    {
+      "key": "line.alone",
+      "fr": "Unité 7, les renforts sont bloqués sur le pont. Vous êtes seul.",
+      "en": "Unit 7, backup is stuck on the bridge. You're on your own."
+    },
+    {
+      "key": "line.others",
+      "fr": "Les autres vont naître. Tu ne pourras pas tous les arrêter.",
+      "en": "The others will be born. You can't stop them all."
+    },
+    {
+      "key": "line.escape1",
+      "fr": "Il s'enfuit par les toits !",
+      "en": "He's escaping over the rooftops!"
+    },
+    {
+      "key": "line.escape2",
+      "fr": "Ne le suivez pas. Une équipe scientifique est en route. Récupérez tout ce qu'il a laissé.",
+      "en": "Don't follow him. A forensics team is on its way. Collect anything he left behind."
+    },
+    {
+      "key": "line.shen1",
+      "fr": "Ici le docteur Shen Yao, médecine légale. Votre scanner me transmet l'échantillon.",
+      "en": "This is Dr. Shen Yao, forensics. Your scanner is sending me the sample."
+    },
+    {
+      "key": "line.shen2",
+      "fr": "Ce n'est pas une mutation naturelle. Son génome a été édité. Un gène de contrôle a été inhibé alors qu'il n'aurait jamais dû l'être.",
+      "en": "This isn't a natural mutation. His genome has been edited. A control gene was switched off when it never should have been."
+    },
+    {
+      "key": "line.shen3",
+      "fr": "Il y a un marqueur. Programme Taotie... Sujet T-07. C'est une signature du Consortium Tianlong.",
+      "en": "There's a marker. Programme Taotie... Subject T-07. That's a Tianlong Consortium signature."
+    },
+    {
+      "key": "line.zhao1",
+      "fr": "Ici le capitaine Zhao. Ce nom ne sort pas de cette fréquence. C'est compris ?",
+      "en": "Captain Zhao here. That name does not leave this channel. Understood?"
+    },
+    {
+      "key": "line.shen4",
+      "fr": "Il y a pire. Toutes les personnes qu'il a touchées portent un parasite.",
+      "en": "It gets worse. Everyone he touched is carrying a parasite."
+    },
+    {
+      "key": "line.shen5",
+      "fr": "Chez les femmes, il déclenche une gestation accélérée. Chez les hommes, il se développe directement dans le corps de l'hôte.",
+      "en": "In women it triggers an accelerated pregnancy. In men it grows directly inside the host's body."
+    },
+    {
+      "key": "line.shen6",
+      "fr": "Quand l'incubation arrive à terme, un nouvel individu naît. Aussi rapide que lui. Et capable de propager le parasite à son tour.",
+      "en": "When the incubation runs its course, a new individual is born. As fast as he is. And able to spread the parasite in turn."
+    },
+    {
+      "key": "line.zhao2",
+      "fr": "Vous avez deux options, agent. Neutraliser les hôtes... ou extraire le parasite, si vous en avez le temps. C'est votre décision.",
+      "en": "You have two options, officer. Neutralise the hosts... or extract the parasite, if you have the time. Your call."
+    },
+    {
+      "key": "line.shen7",
+      "fr": "L'extraction est possible avec votre kit médical, mais elle prend du temps. Ne les laissez pas arriver à terme.",
+      "en": "Extraction is possible with your medical kit, but it takes time. Don't let them come to term."
+    },
+    {
+      "key": "line.neutralized",
+      "fr": "Unité 7... confirmez. Vous venez d'abattre un civil ?",
+      "en": "Unit 7... confirm. Did you just shoot a civilian?"
+    },
+    {
+      "key": "line.saved_f",
+      "fr": "Extraction réussie. Le parasite est mort. Elle va s'en sortir.",
+      "en": "Extraction successful. The parasite is dead. She's going to make it."
+    },
+    {
+      "key": "line.saved_m",
+      "fr": "Extraction réussie. Le parasite est mort. Il va s'en sortir.",
+      "en": "Extraction successful. The parasite is dead. He's going to make it."
+    },
+    {
+      "key": "line.hatched",
+      "fr": "Unité 7, un des hôtes... Quelque chose est sorti. Ça se déplace vite !",
+      "en": "Unit 7, one of the hosts... something came out. It's moving fast!"
+    },
+    {
+      "key": "line.civilian_killed",
+      "fr": "Unité 7, des témoins signalent des tirs sur des civils. Expliquez-vous.",
+      "en": "Unit 7, witnesses are reporting shots fired at civilians. Explain yourself."
+    },
+    {
+      "key": "line.end1",
+      "fr": "Bon travail, agent. Le Consortium va vouloir étouffer l'affaire. Et le sujet T-07 est toujours dans la nature.",
+      "en": "Good work, officer. The Consortium will want this buried. And Subject T-07 is still out there."
+    },
+    {
+      "key": "line.end2",
+      "fr": "S'il y en a d'autres comme lui... il nous faut un vaccin. Et vite.",
+      "en": "If there are others like him... we need a vaccine. Fast."
+    },
+    {
+      "key": "obj.patrol",
+      "fr": "Rendez-vous dans la ruelle de Longmen",
+      "en": "Go to the Longmen alley"
+    },
+    {
+      "key": "obj.chase",
+      "fr": "Poursuivez le suspect — ne le perdez pas de vue",
+      "en": "Chase the suspect — don't lose him"
+    },
+    {
+      "key": "obj.enter_docks",
+      "fr": "Entrez dans la cour des docks",
+      "en": "Enter the docks yard"
+    },
+    {
+      "key": "obj.fight",
+      "fr": "Arrêtez le suspect",
+      "en": "Stop the suspect"
+    },
+    {
+      "key": "obj.sample",
+      "fr": "Récupérez l'échantillon laissé par le suspect",
+      "en": "Collect the sample the suspect left behind"
+    },
+    {
+      "key": "obj.listen",
+      "fr": "Écoutez l'analyse du Dr Shen",
+      "en": "Listen to Dr. Shen's analysis"
+    },
+    {
+      "key": "obj.hosts",
+      "fr": "Hôtes infectés restants : {0}\nExtrayez le parasite ou neutralisez l'hôte avant la naissance",
+      "en": "Infected hosts remaining: {0}\nExtract the parasite or neutralise the host before the birth"
+    },
+    {
+      "key": "obj.offspring",
+      "fr": "Éliminez les rejetons : {0}",
+      "en": "Kill the offspring: {0}"
+    },
+    {
+      "key": "obj.hosts_offspring",
+      "fr": "Hôtes infectés : {0} — Rejetons : {1}",
+      "en": "Infected hosts: {0} — Offspring: {1}"
+    },
+    {
+      "key": "obj.done",
+      "fr": "Zone sécurisée",
+      "en": "Area secured"
+    },
+    {
+      "key": "marker.alley",
+      "fr": "Ruelle",
+      "en": "Alley"
+    },
+    {
+      "key": "marker.suspect",
+      "fr": "Suspect",
+      "en": "Suspect"
+    },
+    {
+      "key": "marker.sample",
+      "fr": "Échantillon",
+      "en": "Sample"
+    },
+    {
+      "key": "marker.offspring",
+      "fr": "Rejeton",
+      "en": "Offspring"
+    },
+    {
+      "key": "hud.objective",
+      "fr": "OBJECTIF",
+      "en": "OBJECTIVE"
+    },
+    {
+      "key": "hud.suspect_distance",
+      "fr": "SUSPECT : {0} m",
+      "en": "SUSPECT: {0} m"
+    },
+    {
+      "key": "hud.losing",
+      "fr": "Vous le perdez ! {0} s",
+      "en": "You're losing him! {0} s"
+    },
+    {
+      "key": "hud.too_far",
+      "fr": "Il ralentit... rattrapez-le",
+      "en": "He's slowing down... catch up"
+    },
+    {
+      "key": "hud.boss_name",
+      "fr": "LE SUSPECT",
+      "en": "THE SUSPECT"
+    },
+    {
+      "key": "hud.health",
+      "fr": "SANTÉ",
+      "en": "HEALTH"
+    },
+    {
+      "key": "hud.pistol",
+      "fr": "PISTOLET DE SERVICE",
+      "en": "SERVICE PISTOL"
+    },
+    {
+      "key": "hud.reloading",
+      "fr": "RECHARGEMENT",
+      "en": "RELOADING"
+    },
+    {
+      "key": "hud.reload_hint",
+      "fr": "Chargeur vide — [{0}] recharger",
+      "en": "Empty — [{0}] reload"
+    },
+    {
+      "key": "hud.controls",
+      "fr": "COMMANDES",
+      "en": "CONTROLS"
+    },
+    {
+      "key": "help.kb",
+      "fr": "ZQSD / WASD : se déplacer\nSouris : caméra\nMaj : sprint\nEspace : sauter\nClic droit : viser\nClic gauche : tirer\nR : recharger\nE (maintenir) : extraire le parasite\nF (maintenir) : neutraliser l'hôte\nÉchap : pause",
+      "en": "WASD / ZQSD: move\nMouse: camera\nShift: sprint\nSpace: jump\nRight click: aim\nLeft click: fire\nR: reload\nE (hold): extract the parasite\nF (hold): neutralise the host\nEsc: pause"
+    },
+    {
+      "key": "help.pad",
+      "fr": "Stick gauche : se déplacer\nStick droit : caméra\nL3 (clic) : sprint\nA : sauter\nLT : viser\nRT : tirer\nY : recharger\nX (maintenir) : extraire le parasite\nB (maintenir) : neutraliser l'hôte\nStart : pause",
+      "en": "Left stick: move\nRight stick: camera\nL3 (click): sprint\nA: jump\nLT: aim\nRT: fire\nY: reload\nX (hold): extract the parasite\nB (hold): neutralise the host\nStart: pause"
+    },
+    {
+      "key": "prompt.extract",
+      "fr": "[{0}] Maintenir : extraire le parasite (lent)",
+      "en": "[{0}] Hold: extract the parasite (slow)"
+    },
+    {
+      "key": "prompt.neutralize",
+      "fr": "[{0}] Maintenir : neutraliser l'hôte",
+      "en": "[{0}] Hold: neutralise the host"
+    },
+    {
+      "key": "host.dormant",
+      "fr": "Porteur du parasite",
+      "en": "Parasite carrier"
+    },
+    {
+      "key": "host.gestation",
+      "fr": "Gestation parasitaire : {0} %",
+      "en": "Parasitic pregnancy: {0}%"
+    },
+    {
+      "key": "host.incubation",
+      "fr": "Incubation parasitaire : {0} %",
+      "en": "Parasitic incubation: {0}%"
+    },
+    {
+      "key": "menu.paused",
+      "fr": "PAUSE",
+      "en": "PAUSED"
+    },
+    {
+      "key": "menu.resume",
+      "fr": "Reprendre",
+      "en": "Resume"
+    },
+    {
+      "key": "menu.restart_checkpoint",
+      "fr": "Recommencer au point de contrôle",
+      "en": "Restart from checkpoint"
+    },
+    {
+      "key": "menu.restart_mission",
+      "fr": "Recommencer la mission",
+      "en": "Restart mission"
+    },
+    {
+      "key": "menu.language",
+      "fr": "Langue",
+      "en": "Language"
+    },
+    {
+      "key": "menu.sensitivity",
+      "fr": "Sensibilité",
+      "en": "Sensitivity"
+    },
+    {
+      "key": "menu.invert_y",
+      "fr": "Inverser l'axe Y",
+      "en": "Invert Y axis"
+    },
+    {
+      "key": "menu.on",
+      "fr": "Oui",
+      "en": "On"
+    },
+    {
+      "key": "menu.off",
+      "fr": "Non",
+      "en": "Off"
+    },
+    {
+      "key": "menu.quit",
+      "fr": "Quitter",
+      "en": "Quit"
+    },
+    {
+      "key": "menu.replay",
+      "fr": "Rejouer la mission",
+      "en": "Replay mission"
+    },
+    {
+      "key": "fail.title",
+      "fr": "MISSION ÉCHOUÉE",
+      "en": "MISSION FAILED"
+    },
+    {
+      "key": "fail.dead",
+      "fr": "Vous êtes mort.",
+      "en": "You died."
+    },
+    {
+      "key": "fail.lost",
+      "fr": "Le suspect vous a semé.",
+      "en": "The suspect got away."
+    },
+    {
+      "key": "debrief.mission",
+      "fr": "MISSION 1 — LA POURSUITE",
+      "en": "MISSION 1 — THE CHASE"
+    },
+    {
+      "key": "debrief.title",
+      "fr": "RAPPORT DE FIN DE MISSION",
+      "en": "AFTER-ACTION REPORT"
+    },
+    {
+      "key": "debrief.saved",
+      "fr": "Hôtes sauvés : {0}",
+      "en": "Hosts saved: {0}"
+    },
+    {
+      "key": "debrief.neutralized",
+      "fr": "Hôtes neutralisés : {0}",
+      "en": "Hosts neutralised: {0}"
+    },
+    {
+      "key": "debrief.born",
+      "fr": "Naissances : {0}",
+      "en": "Births: {0}"
+    },
+    {
+      "key": "debrief.offspring_killed",
+      "fr": "Rejetons éliminés : {0}",
+      "en": "Offspring killed: {0}"
+    },
+    {
+      "key": "debrief.civilians",
+      "fr": "Civils abattus : {0}",
+      "en": "Civilians shot: {0}"
+    },
+    {
+      "key": "debrief.time",
+      "fr": "Durée : {0}:{1}",
+      "en": "Time: {0}:{1}"
+    },
+    {
+      "key": "debrief.verdict.protector",
+      "fr": "Vous avez sauvé tout le monde. À Jinhai, on commence à murmurer le nom de l'agent de l'unité 7.",
+      "en": "You saved everyone. In Jinhai, people are starting to whisper about the officer from Unit 7."
+    },
+    {
+      "key": "debrief.verdict.executioner",
+      "fr": "Vous avez choisi la méthode rapide. Quelqu'un a filmé la scène depuis une fenêtre. Les images circulent déjà sur les réseaux du quartier.",
+      "en": "You chose the quick way. Someone filmed it from a window. The footage is already spreading across the district's networks."
+    },
+    {
+      "key": "debrief.verdict.overwhelmed",
+      "fr": "Vous n'avez tué aucun innocent, mais le parasite a pris de l'avance. Quelque part dans Jinhai, des nouveau-nés grandissent.",
+      "en": "You killed no innocents, but the parasite got ahead of you. Somewhere in Jinhai, newborns are growing."
+    },
+    {
+      "key": "debrief.next",
+      "fr": "À suivre — Mission 2 : le Dr Shen cherche un vaccin, pendant que le Consortium Tianlong envoie ses propres équipes effacer les traces du programme Taotie.",
+      "en": "To be continued — Mission 2: Dr. Shen races to find a vaccine while the Tianlong Consortium sends its own teams to erase every trace of Programme Taotie."
+    },
+    {
+      "key": "warn.input",
+      "fr": "Le nouveau système d'entrée ne détecte ni clavier ni manette.\nActivez-le : Edit > Project Settings > Player > Active Input Handling = Input System Package (New) ou Both, puis redémarrez Unity.",
+      "en": "The new Input System detects no keyboard or gamepad.\nEnable it: Edit > Project Settings > Player > Active Input Handling = Input System Package (New) or Both, then restart Unity."
+    }
+  ]
+}
